@@ -6,4 +6,6 @@ Features of this website are:
 2.It store all the data in local storage so that we will not lose our data.   
 3. It contain add and delete button so that you can spontensouly add or delete member and expenses.   
 4. It also handle some basic error such as if the person who paid is wrong then it will alert you and if no checkboxes are click then also it will alert.     
-
+        The main page of the website look like this:  
+        
+<img width="600" height="1000" alt="Screenshot 2026-01-28 164926" src="https://github.com/user-attachments/assets/41613b8d-8a8e-4b6c-b4e1-0d28fbedf01b" />
