@@ -16,7 +16,7 @@ Features of this website are:
        
        3. Next when we click on submit the expense page will open:
 
-<img width="765" height="700" alt="Screenshot 2026-01-28 175248" src="https://github.com/user-attachments/assets/7ce0480f-e538-4ba6-a7e2-88788c1f8441" />
+<img width="500" height="700" alt="Screenshot 2026-01-28 175248" src="https://github.com/user-attachments/assets/7ce0480f-e538-4ba6-a7e2-88788c1f8441" />
 
 
       
