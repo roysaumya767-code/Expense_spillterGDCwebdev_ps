@@ -8,7 +8,8 @@ Features of this website are:
 4. It also handle some basic error such as if the person who paid is wrong then it will alert you and if no checkboxes are click then also it will alert.     
         1. The main page of the website look like this:  
         
-<img width="600" height="1000" alt="Screenshot 2026-01-28 164926" src="https://github.com/user-attachments/assets/41613b8d-8a8e-4b6c-b4e1-0d28fbedf01b" />                       
+<img width="600" height="1000" alt="Screenshot 2026-01-28 164926" src="https://github.com/user-attachments/assets/41613b8d-8a8e-4b6c-b4e1-0d28fbedf01b" /> 
+
         2. When we enter the member:   
 
 <img width="600" height="400" alt="Screenshot 2026-01-28 173921" src="https://github.com/user-attachments/assets/38137930-9f91-4b52-adfa-a5ebdd7c323f" />
