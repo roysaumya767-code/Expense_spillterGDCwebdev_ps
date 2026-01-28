@@ -24,6 +24,9 @@ Features of this website are:
 
        5.The final result:
 
+<img width="743" height="922" alt="Screenshot 2026-01-28 180828" src="https://github.com/user-attachments/assets/40e79dfb-ecf8-4891-8aa4-5361ccb77d23" />
+
+
 
 
 
