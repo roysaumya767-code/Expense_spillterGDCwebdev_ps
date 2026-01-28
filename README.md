@@ -1,6 +1,6 @@
 # Expense_spillterGDCwebdev_ps
 The link for website by vercel:  
-https://expense-spillter-gd-cwebdev-ps.vercel.app/
+https://expense-spillter-gd-cwebdev-ps.vercel.app/  
 ExpenseSpillter is a website where you and your friends can calculate theirs expenses.You don't need calculator you just need this website and all your data         
 I have used various feature to make this website Such as :DOM, EventListener and also localstorage.       
 Features of this website are:     
