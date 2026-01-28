@@ -18,6 +18,13 @@ Features of this website are:
 
 <img width="500" height="600" alt="Screenshot 2026-01-28 175248" src="https://github.com/user-attachments/assets/7ce0480f-e538-4ba6-a7e2-88788c1f8441" />
 
+       4.We will write all expense:
+       
+<img width="783" height="1037" alt="Screenshot 2026-01-28 180504" src="https://github.com/user-attachments/assets/19d7e51f-198a-4b45-86ee-d5e51ce7e329" />
+
+
+
+
 
       
 
