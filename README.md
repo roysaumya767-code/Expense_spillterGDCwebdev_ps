@@ -20,7 +20,7 @@ Features of this website are:
 
        4.We will write all expense:
        
-<img width="500" height="800" alt="Screenshot 2026-01-28 180504" src="https://github.com/user-attachments/assets/19d7e51f-198a-4b45-86ee-d5e51ce7e329" />
+<img width="500" height="700" alt="Screenshot 2026-01-28 180504" src="https://github.com/user-attachments/assets/19d7e51f-198a-4b45-86ee-d5e51ce7e329" />
 
        5.The final result:
 
